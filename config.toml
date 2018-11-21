@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-au"
+title = "My New Hugo Site"
+theme = "blank"
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section", "RSS"]

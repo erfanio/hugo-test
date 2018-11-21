@@ -1,0 +1,10 @@
+name = "Hugo Test"
+license = "MIT"
+description = ""
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "erfanio"
+  homepage = "https://github.com/erfanio"
